@@ -1,2 +1,2 @@
 # Jump-Game
-Jump game - user interaction
+using recursion and command line parameters
